@@ -20,7 +20,7 @@ Esta es una aplicación web interactiva creada con **Streamlit**, que permite ex
 
 ### Link a la app (después del deploy):
 
-[Ver app en línea](https://nombre-que-render-te-de-asignado.onrender.com)
+[👉 Ver app en línea](https://proyecto7-streamlit-jcht.onrender.com)
 
 ---
 
