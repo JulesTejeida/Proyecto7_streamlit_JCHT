@@ -1,5 +1,5 @@
-# Proyecto7_streamlit_JCHT
-# Proyecto Sprint 7 – Análisis de Autos en Venta (USA)
+# Proyecto_streamlit_JCHT
+# Proyecto_Dashboard_Streamlit Análisis de Autos en Venta (USA)
 
 Esta es una aplicación web interactiva creada con **Streamlit**, que permite explorar un dataset real de autos en venta en Estados Unidos.
 
@@ -24,4 +24,4 @@ Esta es una aplicación web interactiva creada con **Streamlit**, que permite ex
 
 ---
 
-Creado por **Julio Tejeda**
+Creado por **Julio Tejeida**
